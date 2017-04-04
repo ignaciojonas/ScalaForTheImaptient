@@ -7,3 +7,5 @@ Scala Basics
 * **Part 2:** Imports + Map
 * **Part 3:** ScalaDocs, permutations, distinct.
 
+## Lesson 2
+Control Structures and Functions
