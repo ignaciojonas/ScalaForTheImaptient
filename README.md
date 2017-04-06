@@ -23,4 +23,9 @@ OOP Classes and Objects
 * **Part 2:** Uniform Access
 * **Part 3:** Operators + Companion Objects 
 
+## Lesson 5
+Packages, Inheritance, and Traits
+* **Part 1:** Mixing in missing methods
+* **Part 2:** Reversing the mixing order
+* **Part 3:** Buffering
 
