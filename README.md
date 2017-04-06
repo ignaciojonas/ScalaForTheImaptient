@@ -17,3 +17,10 @@ Arrays, Maps, Tuples
 * **Part 3:**  Grouping
 * **Part 4:**  Partitions and Zips
 
+## Lesson 4
+OOP Classes and Objects
+* **Part 1:** Time Class
+* **Part 2:** Uniform Access
+* **Part 3:** Operators + Companion Objects 
+
+
