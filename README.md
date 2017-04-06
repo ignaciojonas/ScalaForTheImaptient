@@ -9,3 +9,11 @@ Scala Basics
 
 ## Lesson 2
 Control Structures and Functions
+
+## Lesson 3
+Arrays, Maps, Tuples
+* **Part 1:** Removing All but the First Negative Number
+* **Part 2:** Word Counts
+* **Part 3:**  Grouping
+* **Part 4:**  Partitions and Zips
+
